@@ -7,4 +7,4 @@
 
 import Foundation
 
-struct MyModel {var name:String?}
+struct MyModel {var name:String = "Eric"}
